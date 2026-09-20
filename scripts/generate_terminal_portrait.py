@@ -109,28 +109,22 @@ aria-label="Eshwar Reddy animated procurement SAP AI profile">
 <line x1="505" y1="143" x2="1158" y2="143" class="line"/>
 
 <g class="mono">
-  <text x="524" y="173" class="label">Subject</text><line x1="586" y1="168" x2="825" y2="168" class="dots"/><text x="1138" y="173" text-anchor="end" class="value">Eshwar Reddy Gali</text>
-  <text x="524" y="198" class="label">Role</text><line x1="566" y1="193" x2="790" y2="193" class="dots"/><text x="1138" y="198" text-anchor="end" class="value">Procurement &amp; P2P Analyst · SAP · AI / LLM</text>
-  <text x="524" y="223" class="label">Base</text><line x1="566" y1="218" x2="875" y2="218" class="dots"/><text x="1138" y="223" text-anchor="end" class="value">Bengaluru, India</text>
-  <text x="524" y="248" class="label">Focus</text><line x1="575" y1="243" x2="770" y2="243" class="dots"/><text x="1138" y="248" text-anchor="end" class="value">Procurement · Contract Compliance · Analytics · Automation</text>
-  <text x="524" y="273" class="label">SAP / ERP</text><line x1="596" y1="268" x2="790" y2="268" class="dots"/><text x="1138" y="273" text-anchor="end" class="value">SAP Ariba · SAP MM/FI · SAP Service Cloud V2 · GeM</text>
-  <text x="524" y="298" class="label">Analytics</text><line x1="593" y1="293" x2="815" y2="293" class="dots"/><text x="1138" y="298" text-anchor="end" class="value">SQL · Power BI · Tableau · Alteryx · Advanced Excel/VBA</text>
-  <text x="524" y="323" class="label">AI / LLM</text><line x1="590" y1="318" x2="820" y2="318" class="dots"/><text x="1138" y="323" text-anchor="end" class="value">OpenAI API · LLMs · Prompt Engineering · RAG · Agents</text>
-  <text x="524" y="348" class="label">Impact.1</text><line x1="590" y1="343" x2="830" y2="343" class="dots"/><text x="1138" y="348" text-anchor="end" class="value">20+ invoices processed / tracked monthly</text>
-  <text x="524" y="373" class="label">Impact.2</text><line x1="590" y1="368" x2="830" y2="368" class="dots"/><text x="1138" y="373" text-anchor="end" class="value">10+ infrastructure procurement workflows supported</text>
-  <text x="524" y="398" class="label">Impact.3</text><line x1="590" y1="393" x2="830" y2="393" class="dots"/><text x="1138" y="398" text-anchor="end" class="value">15-year financial record reconciliation supported</text>
-  <text x="524" y="423" class="label">Projects</text><line x1="586" y1="418" x2="770" y2="418" class="dots"/><text x="1138" y="423" text-anchor="end" class="value">SAP Ariba P2P · EV Charging SQL · AI Paris Guide</text>
-  <text x="524" y="448" class="label">Certs</text><line x1="566" y1="443" x2="820" y2="443" class="dots"/><text x="1138" y="448" text-anchor="end" class="value">SAP Service Cloud V2 · DataCamp · Alteryx · GitHub</text>
-  <text x="524" y="473" class="label">Status</text><line x1="575" y1="468" x2="860" y2="468" class="dots"/><text x="1138" y="473" text-anchor="end" class="value" fill="#22c55e">Building + Learning + Shipping</text>
-  <text x="524" y="498" class="label">Mission</text><line x1="583" y1="493" x2="770" y2="493" class="dots"/><text x="1138" y="498" text-anchor="end" class="value">Smarter procurement, cleaner reporting, practical AI</text>
+  <text x="524" y="178" class="label">Subject</text><line x1="586" y1="173" x2="825" y2="173" class="dots"/><text x="1138" y="178" text-anchor="end" class="value">Eshwar Reddy Gali</text>
+  <text x="524" y="211" class="label">Role</text><line x1="566" y1="206" x2="790" y2="206" class="dots"/><text x="1138" y="211" text-anchor="end" class="value">Procurement &amp; P2P · SAP · Data · AI</text>
+  <text x="524" y="244" class="label">Base</text><line x1="566" y1="239" x2="875" y2="239" class="dots"/><text x="1138" y="244" text-anchor="end" class="value">Bengaluru, India</text>
+  <text x="524" y="277" class="label">Status</text><line x1="575" y1="272" x2="820" y2="272" class="dots"/><text x="1138" y="277" text-anchor="end" class="value">Building · Learning · Improving</text>
+  <text x="524" y="310" class="label">Core.SAP</text><line x1="590" y1="305" x2="800" y2="305" class="dots"/><text x="1138" y="310" text-anchor="end" class="value">SAP Ariba · SAP MM/FI · Contract Compliance</text>
+  <text x="524" y="343" class="label">Core.Data</text><line x1="600" y1="338" x2="820" y2="338" class="dots"/><text x="1138" y="343" text-anchor="end" class="value">SQL · Power BI · Tableau · Advanced Excel</text>
+  <text x="524" y="376" class="label">Core.AI</text><line x1="585" y1="371" x2="820" y2="371" class="dots"/><text x="1138" y="376" text-anchor="end" class="value">OpenAI API · LLMs · Prompt Engineering · RAG</text>
+  <text x="524" y="409" class="label">Focus</text><line x1="575" y1="404" x2="810" y2="404" class="dots"/><text x="1138" y="409" text-anchor="end" class="value">Smarter enterprise procurement workflows</text>
+  <text x="524" y="442" class="label">LinkedIn</text><line x1="590" y1="437" x2="860" y2="437" class="dots"/><text x="1138" y="442" text-anchor="end" class="value">/in/eshwar-reddy-gali-</text>
+  <text x="524" y="475" class="label">Instagram</text><line x1="600" y1="470" x2="875" y2="470" class="dots"/><text x="1138" y="475" text-anchor="end" class="value">@eshwarrxddy</text>
 </g>
 
 <line x1="524" y1="533" x2="1138" y2="533" class="line"/>
-<text x="524" y="558" class="mono cyan" font-size="13">LinkedIn: /in/eshwar-reddy-gali-</text>
-<text x="1138" y="558" text-anchor="end" class="mono" fill="#ff4fd8" font-size="13">Instagram: @eshwarrxddy</text>
-<circle cx="527" cy="579" r="3" fill="#22c55e"/>
-<text x="537" y="583" class="mono" fill="#22c55e" font-size="10">ALL SYSTEMS NOMINAL</text>
-<text x="1138" y="583" text-anchor="end" class="mono label" font-size="10">UTC+5:30 • BLR MODE</text>
+<circle cx="527" cy="558" r="3" fill="#22c55e"/>
+<text x="537" y="562" class="mono" fill="#22c55e" font-size="10">ALL SYSTEMS NOMINAL</text>
+<text x="1138" y="562" text-anchor="end" class="mono label" font-size="10">PROCUREMENT • SAP • DATA • AI</text>
 </svg>'''
 
 def main():
