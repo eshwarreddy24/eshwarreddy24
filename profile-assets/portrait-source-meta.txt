@@ -1,0 +1,5 @@
+Generated from the public GitHub avatar for @eshwarreddy24
+source=https://github.com/eshwarreddy24.png?size=512
+source_size=460x460
+grid=76x76
+border_luminance=0.782
