@@ -67,7 +67,7 @@ Hi, I'm **Eshwar Reddy**, a Procurement & P2P professional in Bengaluru, working
 
 ### 1) Contract Compliance, Catalog & PO Validation
 
-[![Project 1](https://img.shields.io/badge/View%20Project-Contract%20Compliance%20%26%20PO-0FAAFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshwarreddy24/SAP-Ariba-Contract-Compliance-P2P-Project/tree/main/projects/contract-compliance-catalog-po)
+[![Project 1](https://img.shields.io/badge/View%20Project-Contract%20Compliance%20%26%20PO-0FAAFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshwarreddy24/SAP-Ariba-Contract-Compliance-Catalog-PO)
 
 Designed a **3-level SAP Ariba contract architecture**: supplier master agreement → commodity subagreement → item subagreement.
 
@@ -75,7 +75,7 @@ Designed a **3-level SAP Ariba contract architecture**: supplier master agreemen
 
 ### 2) Service Contract, Receiving & Lifecycle Controls
 
-[![Project 2](https://img.shields.io/badge/View%20Project-Service%20Contract%20%26%20Receiving-0FAAFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshwarreddy24/SAP-Ariba-Contract-Compliance-P2P-Project/tree/main/projects/service-contract-receiving-lifecycle)
+[![Project 2](https://img.shields.io/badge/View%20Project-Service%20Contract%20%26%20Receiving-0FAAFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshwarreddy24/SAP-Ariba-Service-Contract-Receiving-Lifecycle)
 
 Built a **no-release standalone service contract** with receiving, spend controls, milestone verification and lifecycle amendment.
 
