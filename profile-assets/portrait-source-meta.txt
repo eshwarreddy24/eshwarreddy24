@@ -1,3 +1,4 @@
-Source: user-provided portrait transformed into a smiling cyber/VFX profile visual.
-Purpose: GitHub profile README header.
-Motion: SVG float, scan-line, orbital light, status pulse.
+Source: user-provided portrait.
+Style: monochrome terminal profile with reference-inspired layout.
+Animation: profile view cross-fades to 'Welcome to my world'.
+Transition duration: 0.60 seconds in a 10-second loop.
