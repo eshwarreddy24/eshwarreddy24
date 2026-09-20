@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/eshwarreddy24/eshwarreddy24/main/profile-assets/hero.svg" width="100%" alt="Eshwar Reddy - Procurement, SAP and AI">
+<img src="https://raw.githubusercontent.com/eshwarreddy24/eshwarreddy24/main/profile-assets/terminal-profile.svg" width="100%" alt="Eshwar Reddy terminal profile - Procurement, SAP and AI">
 
 <br>
 
