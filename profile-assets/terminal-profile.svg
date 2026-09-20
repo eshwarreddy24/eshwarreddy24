@@ -3,17 +3,17 @@ xmlns="http://www.w3.org/2000/svg" role="img"
 aria-label="Eshwar Reddy animated terminal profile">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#05080d"/>
-    <stop offset="100%" stop-color="#0a1018"/>
+    <stop offset="0%" stop-color="#060b12"/>
+    <stop offset="100%" stop-color="#0b1521"/>
   </linearGradient>
   <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#101826"/>
-    <stop offset="100%" stop-color="#0d1420"/>
+    <stop offset="0%" stop-color="#111c2b"/>
+    <stop offset="100%" stop-color="#0c1623"/>
   </linearGradient>
   <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#d7dde6" stop-opacity="0"/>
-    <stop offset="50%" stop-color="#d7dde6" stop-opacity=".20"/>
-    <stop offset="100%" stop-color="#d7dde6" stop-opacity="0"/>
+    <stop offset="0%" stop-color="#67b7d1" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#67b7d1" stop-opacity=".22"/>
+    <stop offset="100%" stop-color="#67b7d1" stop-opacity="0"/>
   </linearGradient>
   <filter id="mono" x="-10%" y="-10%" width="120%" height="120%">
     <feColorMatrix type="matrix"
@@ -28,7 +28,7 @@ aria-label="Eshwar Reddy animated terminal profile">
     </feComponentTransfer>
   </filter>
   <pattern id="dotPattern" width="5" height="5" patternUnits="userSpaceOnUse">
-    <circle cx="2.5" cy="2.5" r="0.8" fill="#b8bec8" opacity=".72"/>
+    <circle cx="2.5" cy="2.5" r="0.8" fill="#91a6ba" opacity=".74"/>
   </pattern>
   <mask id="portraitDots">
     <rect x="0" y="0" width="100%" height="100%" fill="black"/>
@@ -38,12 +38,12 @@ aria-label="Eshwar Reddy animated terminal profile">
   <clipPath id="portraitClip"><rect x="62" y="154" width="392" height="405" rx="3"/></clipPath>
   <style>
     .mono{font-family:"JetBrains Mono","SFMono-Regular",Consolas,"Liberation Mono",monospace}
-    .label{fill:#8492a8;font-size:14px}
-    .value{fill:#f3f5f7;font-size:15px;font-weight:600}
-    .accent{fill:#c7d0dc}
-    .muted{fill:#68778c}
-    .line{stroke:#2a394d;stroke-width:1}
-    .dotted{stroke:#26364a;stroke-width:1;stroke-dasharray:2 4}
+    .label{fill:#8da1b6;font-size:14px}
+    .value{fill:#f2f6fa;font-size:15px;font-weight:600}
+    .accent{fill:#67b7d1}
+    .muted{fill:#71859a}
+    .line{stroke:#30445a;stroke-width:1}
+    .dotted{stroke:#2b4055;stroke-width:1;stroke-dasharray:2 4}
 
     /* 10 second loop. Each cross-fade is exactly 6% = 0.60 seconds. */
     @keyframes phaseOne{
@@ -74,25 +74,25 @@ aria-label="Eshwar Reddy animated terminal profile">
 </defs>
 
 <rect width="1200" height="650" fill="url(#bg)"/>
-<rect x="20" y="18" width="1160" height="614" rx="18" fill="#0a111c" stroke="#1c2a3d" stroke-width="2"/>
-<rect x="32" y="30" width="1136" height="590" rx="14" fill="#0d1522" stroke="#2b3a50" stroke-width="1.5"/>
+<rect x="20" y="18" width="1160" height="614" rx="18" fill="#08111b" stroke="#22384b" stroke-width="2"/>
+<rect x="32" y="30" width="1136" height="590" rx="14" fill="#0d1724" stroke="#30485d" stroke-width="1.5"/>
 
 <!-- terminal bar -->
-<circle cx="56" cy="54" r="6" fill="#d6d6d6"/>
-<circle cx="78" cy="54" r="6" fill="#9fa5ad"/>
-<circle cx="100" cy="54" r="6" fill="#737b85"/>
+<circle cx="56" cy="54" r="6" fill="#b86f74"/>
+<circle cx="78" cy="54" r="6" fill="#c6a96b"/>
+<circle cx="100" cy="54" r="6" fill="#70a993"/>
 <text x="600" y="59" text-anchor="middle" class="mono label" font-size="15">profile.sh --live</text>
 <line x1="32" y1="78" x2="1168" y2="78" class="line"/>
 
 <!-- PHASE 1: reference-style profile card -->
 <g class="phase-one">
-  <rect x="42" y="104" width="430" height="482" rx="8" fill="url(#panel)" stroke="#29394f"/>
+  <rect x="42" y="104" width="430" height="482" rx="8" fill="url(#panel)" stroke="#30485d"/>
   <text x="56" y="131" class="mono accent" font-size="14" font-weight="700">VISUAL.MAP</text>
   <text x="454" y="131" text-anchor="end" class="mono label" font-size="11">320x340 / 1-BIT</text>
   <line x1="56" y1="143" x2="458" y2="143" class="line"/>
 
   <path d="M56 174 v-13 h13 M458 174 v-13 h-13 M56 544 v13 h13 M458 544 v13 h-13"
-        fill="none" stroke="#78879a" stroke-width="1.2"/>
+        fill="none" stroke="#67b7d1" stroke-width="1.2"/>
 
   <!-- monochrome dot portrait -->
   <g clip-path="url(#portraitClip)">
@@ -103,11 +103,11 @@ aria-label="Eshwar Reddy animated terminal profile">
   </g>
   <text x="66" y="572" class="mono muted" font-size="10">PTS / PROFILE • FS/ESHWR</text>
 
-  <rect x="492" y="104" width="654" height="482" rx="8" fill="url(#panel)" stroke="#29394f"/>
+  <rect x="492" y="104" width="654" height="482" rx="8" fill="url(#panel)" stroke="#30485d"/>
   <text x="508" y="131" class="mono accent" font-size="14" font-weight="700">SYSTEM.INFO</text>
-  <circle class="live" cx="904" cy="126" r="4" fill="#d7dde6"/>
+  <circle class="live" cx="904" cy="126" r="4" fill="#70a993"/>
   <text x="918" y="131" class="mono accent" font-size="12" font-weight="700">LIVE</text>
-  <rect x="984" y="113" width="146" height="26" rx="13" fill="#172233" stroke="#314359"/>
+  <rect x="984" y="113" width="146" height="26" rx="13" fill="#142332" stroke="#365168"/>
   <text x="1057" y="131" text-anchor="middle" class="mono accent" font-size="13" font-weight="700">@eshwarreddy24</text>
   <line x1="492" y1="143" x2="1146" y2="143" class="line"/>
 
@@ -127,30 +127,30 @@ aria-label="Eshwar Reddy animated terminal profile">
   </g>
 
   <line x1="508" y1="534" x2="1128" y2="534" class="line"/>
-  <circle cx="512" cy="558" r="3" fill="#c5ccd5"/>
+  <circle cx="512" cy="558" r="3" fill="#70a993"/>
   <text x="522" y="562" class="mono accent" font-size="10">ALL SYSTEMS NOMINAL</text>
   <text x="1128" y="562" text-anchor="end" class="mono label" font-size="10">UTC+5:30 • BLR MODE</text>
 </g>
 
 <!-- PHASE 2: clean monochrome welcome scene -->
 <g class="phase-two">
-  <rect x="42" y="104" width="1104" height="482" rx="8" fill="url(#panel)" stroke="#29394f"/>
+  <rect x="42" y="104" width="1104" height="482" rx="8" fill="url(#panel)" stroke="#30485d"/>
   <text x="58" y="131" class="mono accent" font-size="14" font-weight="700">WELCOME.SYS</text>
   <text x="1128" y="131" text-anchor="end" class="mono label" font-size="11">SESSION / ACTIVE</text>
   <line x1="56" y1="143" x2="1132" y2="143" class="line"/>
 
   <path d="M74 185 h34 M74 185 v34 M1128 185 h-34 M1128 185 v34 M74 520 h34 M74 520 v-34 M1128 520 h-34 M1128 520 v-34"
-        fill="none" stroke="#566578" stroke-width="1.2"/>
+        fill="none" stroke="#607a8d" stroke-width="1.2"/>
 
   <text x="600" y="265" text-anchor="middle" class="mono label" font-size="15" letter-spacing="6">PROCUREMENT  •  SAP  •  DATA  •  AI</text>
-  <text x="600" y="350" text-anchor="middle" class="mono value welcome" font-size="62" font-weight="800">Welcome to my world</text>
-  <line x1="365" y1="382" x2="835" y2="382" stroke="#5b6979" stroke-width="1"/>
+  <text x="600" y="350" text-anchor="middle" class="mono welcome" fill="#eaf2f8" font-size="62" font-weight="800">Welcome to <tspan fill="#67b7d1">my world</tspan></text>
+  <line x1="365" y1="382" x2="835" y2="382" stroke="#67b7d1" stroke-width="1"/>
   <text x="600" y="425" text-anchor="middle" class="mono label" font-size="14" letter-spacing="3">BUILD USEFUL THINGS · KEEP LEARNING · IMPROVE SYSTEMS</text>
 
   <g class="mono">
     <text x="600" y="492" text-anchor="middle" class="muted" font-size="12">CONTRACT COMPLIANCE · P2P ANALYTICS · ENTERPRISE AUTOMATION · LLM WORKFLOWS</text>
   </g>
-  <circle cx="512" cy="558" r="3" fill="#c5ccd5"/>
+  <circle cx="512" cy="558" r="3" fill="#70a993"/>
   <text x="522" y="562" class="mono accent" font-size="10">WELCOME SEQUENCE COMPLETE</text>
   <text x="1128" y="562" text-anchor="end" class="mono label" font-size="10">LOOP / 10.00s • FADE / 0.60s</text>
 </g>

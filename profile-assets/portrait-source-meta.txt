@@ -1,4 +1,4 @@
 Source: user-provided portrait.
-Style: monochrome terminal profile with reference-inspired layout.
+Style: restrained navy/slate terminal profile with muted teal accents.
 Animation: profile view cross-fades to 'Welcome to my world'.
 Transition duration: 0.60 seconds in a 10-second loop.
