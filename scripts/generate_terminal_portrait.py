@@ -65,6 +65,14 @@ aria-label="Eshwar Reddy animated procurement SAP AI profile">
     @keyframes frameGlow{{0%,100%{{filter:drop-shadow(0 0 4px #22d3ee)}}50%{{filter:drop-shadow(0 0 14px #8b5cf6)}}}}
     @keyframes orbit{{from{{transform:rotate(0deg)}}to{{transform:rotate(360deg)}}}}
     @keyframes cursor{{0%,45%{{opacity:1}}46%,100%{{opacity:.15}}}}
+    @keyframes phaseOne{{0%,38%{{opacity:1;transform:scale(1)}}47%,92%{{opacity:0;transform:scale(.985)}}100%{{opacity:1;transform:scale(1)}}}}
+    @keyframes phaseTwo{{0%,42%{{opacity:0;transform:scale(1.025)}}52%,88%{{opacity:1;transform:scale(1)}}97%,100%{{opacity:0;transform:scale(.99)}}}}
+    @keyframes welcomeGlow{{0%,100%{{filter:drop-shadow(0 0 6px #22d3ee)}}50%{{filter:drop-shadow(0 0 22px #8b5cf6)}}}}
+    @keyframes nodePulse{{0%,100%{{opacity:.55}}50%{{opacity:1}}}}
+    .phase-one{{animation:phaseOne 10s ease-in-out infinite;transform-origin:600px 350px}}
+    .phase-two{{animation:phaseTwo 10s ease-in-out infinite;transform-origin:600px 350px;opacity:0}}
+    .welcome{{animation:welcomeGlow 4s ease-in-out infinite}}
+    .node{{animation:nodePulse 2.8s ease-in-out infinite}}
     .face{{animation:float3d 7s ease-in-out infinite;transform-origin:260px 350px}}
     .scan{{animation:scanMove 5.6s linear infinite}}
     .live{{animation:pulse 2.2s ease-in-out infinite}}
@@ -84,6 +92,7 @@ aria-label="Eshwar Reddy animated procurement SAP AI profile">
 <text x="1138" y="57" text-anchor="end" class="mono label">BUILD / LEARN / IMPROVE / REPEAT ∞</text>
 <line x1="22" y1="76" x2="1178" y2="76" class="line"/>
 
+<g class="phase-one">
 <rect class="frame" x="42" y="104" width="445" height="492" rx="12" fill="url(#panel)" stroke="#22d3ee"/>
 <text x="58" y="131" class="mono cyan" font-size="14" font-weight="700">PROFILE.VISUAL</text>
 <text x="468" y="131" text-anchor="end" class="mono label" font-size="12">PHOTO / VFX / MOTION</text>
@@ -125,6 +134,44 @@ aria-label="Eshwar Reddy animated procurement SAP AI profile">
 <circle cx="527" cy="558" r="3" fill="#22c55e"/>
 <text x="537" y="562" class="mono" fill="#22c55e" font-size="10">ALL SYSTEMS NOMINAL</text>
 <text x="1138" y="562" text-anchor="end" class="mono label" font-size="10">PROCUREMENT • SAP • DATA • AI</text>
+</g>
+
+<!-- Phase 2: welcome scene -->
+<g class="phase-two">
+  <rect x="42" y="104" width="1116" height="492" rx="14" fill="url(#panel)" stroke="#24476a"/>
+  <g opacity=".35">
+    <path d="M90 505 C260 390 360 420 500 330 S790 215 1110 350" fill="none" stroke="#22d3ee" stroke-width="1.2"/>
+    <path d="M120 525 C310 430 410 470 560 365 S840 260 1080 395" fill="none" stroke="#8b5cf6" stroke-width="1" stroke-dasharray="5 8"/>
+    <circle class="node" cx="205" cy="451" r="4" fill="#22d3ee"/>
+    <circle class="node" cx="430" cy="383" r="4" fill="#8b5cf6"/>
+    <circle class="node" cx="675" cy="291" r="4" fill="#22d3ee"/>
+    <circle class="node" cx="935" cy="319" r="4" fill="#8b5cf6"/>
+  </g>
+
+  <text x="600" y="205" text-anchor="middle" class="mono label" font-size="17" letter-spacing="5">PEOPLE  +  PROCESS  +  TECHNOLOGY</text>
+  <text x="600" y="300" text-anchor="middle" class="mono welcome" fill="#f4f8ff" font-size="64" font-weight="800">Welcome to my world</text>
+  <text x="600" y="342" text-anchor="middle" class="mono cyan" font-size="17" letter-spacing="3">PROCUREMENT • SAP • DATA • AI / LLM</text>
+
+  <g class="mono">
+    <rect x="180" y="395" width="180" height="72" rx="12" fill="#0c1d31" stroke="#22d3ee"/>
+    <text x="270" y="425" text-anchor="middle" class="value">PROCUREMENT</text>
+    <text x="270" y="449" text-anchor="middle" class="label">SOURCE • BUY • PAY</text>
+
+    <rect x="390" y="395" width="180" height="72" rx="12" fill="#0c1d31" stroke="#22d3ee"/>
+    <text x="480" y="425" text-anchor="middle" class="value">SAP</text>
+    <text x="480" y="449" text-anchor="middle" class="label">ARIBA • MM/FI</text>
+
+    <rect x="600" y="395" width="180" height="72" rx="12" fill="#11162d" stroke="#8b5cf6"/>
+    <text x="690" y="425" text-anchor="middle" class="value">AI / LLM</text>
+    <text x="690" y="449" text-anchor="middle" class="label">PROMPTS • RAG</text>
+
+    <rect x="810" y="395" width="180" height="72" rx="12" fill="#0c1d31" stroke="#22d3ee"/>
+    <text x="900" y="425" text-anchor="middle" class="value">ANALYTICS</text>
+    <text x="900" y="449" text-anchor="middle" class="label">SQL • POWER BI</text>
+  </g>
+
+  <text x="600" y="535" text-anchor="middle" class="mono" fill="#7d9bc7" font-size="13">BUILD USEFUL THINGS • KEEP LEARNING • MAKE SYSTEMS BETTER</text>
+</g>
 </svg>'''
 
 def main():
