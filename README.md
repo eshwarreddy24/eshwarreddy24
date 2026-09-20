@@ -65,14 +65,21 @@ Hi, I'm **Eshwar Reddy**, a Procurement & P2P professional in Bengaluru, working
 
 ## selected work
 
-### SAP Ariba Contract Compliance & P2P Controls
+### 1) Contract Compliance, Catalog & PO Validation
 
-[![Repository](https://img.shields.io/badge/View%20Project-SAP%20Ariba%20P2P-0FAAFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshwarreddy24/SAP-Ariba-Contract-Compliance-P2P-Project)
+[![Project 1](https://img.shields.io/badge/View%20Project-Contract%20Compliance%20%26%20PO-0FAAFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshwarreddy24/SAP-Ariba-Contract-Compliance-P2P-Project/tree/main/projects/contract-compliance-catalog-po)
 
-Built and tested supplier, commodity, item and service contracts in SAP Ariba, including tiered pricing, requisition-to-PO validation, receiving, milestones and lifecycle changes.
+Designed a **3-level SAP Ariba contract architecture**: supplier master agreement → commodity subagreement → item subagreement.
 
-**Highlights:** 4 contract models · USD 6,750 contract requisition · USD 500K service ceiling · 60 service hours received.
+**Highlights:** 2% supplier discount · 3%/4%/5% commodity tiers · USD 47.50 / USD 45.00 item price breaks · quantity tests at 1, 51 and 150 · USD 6,750 requisition → PO · Auto-Catalog USD 15.00 → USD 14.70.
 
+### 2) Service Contract, Receiving & Lifecycle Controls
+
+[![Project 2](https://img.shields.io/badge/View%20Project-Service%20Contract%20%26%20Receiving-0FAAFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshwarreddy24/SAP-Ariba-Contract-Compliance-P2P-Project/tree/main/projects/service-contract-receiving-lifecycle)
+
+Built a **no-release standalone service contract** with receiving, spend controls, milestone verification and lifecycle amendment.
+
+**Highlights:** USD 500K ceiling · 3% tolerance · USD 250/hour · 1,000-hour limit · 60-hour receipt = USD 15,000 · USD 10K milestone · USD 10K minimum commitment amendment.
 
 ---
 
