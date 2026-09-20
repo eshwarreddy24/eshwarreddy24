@@ -73,15 +73,6 @@ Built and tested supplier, commodity, item and service contracts in SAP Ariba, i
 
 **Highlights:** 4 contract models · USD 6,750 contract requisition · USD 500K service ceiling · 60 service hours received.
 
-### EV Charging Habits Analysis
-**SQL · Data Analytics**
-
-Analyzed charging-station usage patterns to understand tenant behavior and support apartment charging-infrastructure decisions.
-
-### AI-Powered Parisian Travel Guide
-**OpenAI API · LLMs · Prompt Engineering**
-
-Built a natural-language travel assistant that generates personalized Paris recommendations using LLM-based prompting.
 
 ---
 
