@@ -24,14 +24,14 @@
 
 ## This is me :)
 
-Hi, I'm **Eshwar**, a procurement and Procure-to-Pay professional based in Bengaluru, working across **SAP, contract compliance, analytics and AI-assisted workflows**.
+Hi, I'm **Eshwar Reddy**, a Procurement & P2P professional in Bengaluru, working across **SAP, analytics and practical AI workflows**.
 
-- 💼 Hands-on with **SAP Ariba Contract Compliance, SAP MM/FI, requisitions, purchase orders, receiving and invoice workflows**.
-- 📊 I use **SQL, Power BI, Tableau and Advanced Excel** to turn operational data into useful reporting and reconciliation.
-- 🧾 My procurement experience includes **20+ invoice transactions per month** and coordination across **10+ infrastructure projects**.
-- 🤖 I'm actively building skills in **OpenAI API, LLMs, prompt engineering, RAG and AI agents**, with a focus on practical enterprise use cases.
-- 🛠️ I enjoy building projects that connect **business processes + data + automation** instead of treating them as separate areas.
-- 🌱 **Current direction:** smarter procurement operations with clear controls, better data and human-reviewed AI.
+- 💼 **SAP:** Ariba Contract Compliance, SAP MM/FI, requisitions, POs, receiving and invoice processes.
+- 📊 **Data:** SQL, Power BI, Tableau and Advanced Excel for reporting, reconciliation and operational analysis.
+- 🧾 **Experience:** 20+ invoice transactions/month and procurement coordination across 10+ infrastructure projects.
+- 🤖 **AI:** OpenAI API, LLMs, prompt engineering and RAG for enterprise workflow use cases.
+
+**Focus:** Procurement Operations · Contract Compliance · P2P Analytics · AI-assisted Automation
 
 <br>
 
