@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/eshwarreddy24/eshwarreddy24/main/profile-assets/terminal-profile.svg" width="100%" alt="Eshwar Reddy terminal profile - Procurement, SAP and AI">
+<img src="https://raw.githubusercontent.com/eshwarreddy24/eshwarreddy24/main/profile-assets/terminal-profile.svg" width="100%" alt="Eshwar Reddy - Procurement, SAP, Analytics and AI">
 
 <br>
 
 <a href="https://github.com/eshwarreddy24">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Procure-to-Pay+%7C+SAP+Ariba+Contract+Compliance;Procurement+Operations+%7C+SAP+MM%2FFI+%7C+Analytics;AI+%26+LLM+Workflow+Builder+%7C+Prompt+Engineering;Building+smarter+enterprise+procurement+workflows" alt="Typing introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=850&color=58A6FF&center=true&vCenter=true&width=900&lines=Procurement+%26+P2P+%7C+SAP+Ariba+%7C+SAP+MM%2FFI;Business+Analysis+%7C+SQL+%7C+Power+BI+%7C+Tableau;OpenAI+API+%7C+LLMs+%7C+Prompt+Engineering;Building+smarter+processes+with+data+%2B+AI" alt="Animated professional headline">
 </a>
 
 <br>
 
 <a href="https://www.linkedin.com/in/eshwar-reddy-gali-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-&nbsp;
-<a href="https://www.instagram.com/eshwarrxddy?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw=="><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
-&nbsp;
-<a href="https://eshwarreddy24.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=58A6FF" alt="Portfolio"></a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/eshwarrxddy?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw=="><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
 
 <br><br>
 
@@ -24,118 +22,165 @@
 
 ---
 
-## About me
+## 👋 About me
 
-I'm **Eshwar Reddy Gali**, a Procure-to-Pay and procurement operations professional working at the intersection of **SAP enterprise systems, contract compliance, analytics and AI-assisted workflows**.
+I'm **Eshwar Reddy Gali**, a procurement, P2P and business-analysis professional based in **Bengaluru, India**. My work combines **SAP enterprise systems, procurement operations, financial reconciliation, analytics and practical AI/LLM workflows**.
 
-- **Procurement & P2P:** experience with invoice processing, e-procurement, reconciliation, compliance documentation and reporting.
-- **SAP:** hands-on work across **SAP Ariba Contract Compliance, Buying & Invoicing, SAP MM/FI, requisitions, purchase orders and receiving**.
-- **Contract controls:** built supplier, commodity, item and standalone service contract scenarios with pricing tiers, tolerances, milestones and lifecycle changes.
-- **Data & reporting:** use **Advanced Excel and Power BI** to structure operational data, reconcile transactions and support management reporting.
-- **AI for work:** use **ChatGPT and Microsoft Copilot** for first-pass research, document cleanup, formula support, prompt iteration and workflow ideation, with human review before use.
-- **AI / LLM direction:** actively building skills in **prompt engineering, LLM workflows, RAG fundamentals, structured outputs, embeddings, evaluation and AI agents**.
-- **Current focus:** making enterprise procurement workflows easier to understand, measure and automate without losing financial control.
+- 🧾 Processed and tracked **20+ invoices per month** in SAP MM/FI while maintaining financial and supply-chain records.
+- 🏗️ Coordinated tender and procurement workflows across **10+ infrastructure projects** using Government e-Office and **GeM**.
+- 📊 Built management reporting with **Power BI** and **Advanced Excel**, converting operational data into decision-ready views.
+- 🧮 Supported resolution of a **15-year financial dispute** through historical-record reconciliation and interest-liability analysis.
+- 🛫 Maintained documentation and audit readiness for **AAI–ISRO GAGAN** technical workflows.
+- 🤝 Worked across procurement, finance, engineering and management teams in infrastructure and corporate environments.
+- 🤖 Build with **OpenAI API, LLMs and prompt engineering**, and use AI tools for lower-risk research, drafting, formula support and workflow ideation with human review.
+
+---
+
+## 🧭 Experience & impact
+
+### Airports Authority of India (AAI) — Graduate Apprentice
+**Bengaluru | Sep 2025 – Aug 2026**
+
+- Managed procurement and inventory activities through **SAP MM/FI**, processing **20+ invoice transactions monthly**.
+- Built operational dashboards and structured reports using **Power BI** and **Advanced Excel**.
+- Led documentation, approvals and purchasing coordination for **10+ infrastructure projects** through **GeM** and Government e-Office.
+- Reconciled historical financial records supporting review of a **15-year dispute**.
+- Supervised GAGAN workflow records with emphasis on data accuracy, compliance and audit readiness.
+
+### Organo Eco Habitats Pvt. Ltd. — Graduate Engineer Trainee
+**Hyderabad | Nov 2024 – Jun 2025**
+
+- Coordinated resource planning, material requirements, procurement tracking and project reporting using **Advanced Excel**.
+- Worked with cross-functional teams to track project progress and support purchasing decisions.
+- Co-authored industry publications with senior leadership by translating organizational data and business inputs into structured insights.
 
 ---
 
 <div align="center">
 
-## Professional stack
+## ⚙️ Professional stack
 
-### Procurement & SAP
+### Procurement · ERP · SAP
 
 <img src="https://img.shields.io/badge/SAP%20Ariba-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Ariba">
 <img src="https://img.shields.io/badge/Contract%20Compliance-111827?style=for-the-badge&logo=sap&logoColor=58A6FF" alt="Contract Compliance">
 <img src="https://img.shields.io/badge/SAP%20MM%2FFI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP MM FI">
+<img src="https://img.shields.io/badge/SAP%20Service%20Cloud%20V2-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Service Cloud V2">
 <img src="https://img.shields.io/badge/Procure--to--Pay-111827?style=for-the-badge&logo=buffer&logoColor=58A6FF" alt="Procure to Pay">
-<img src="https://img.shields.io/badge/Purchase%20Orders-111827?style=for-the-badge&logo=readthedocs&logoColor=58A6FF" alt="Purchase Orders">
-<img src="https://img.shields.io/badge/Invoice%20Reconciliation-111827?style=for-the-badge&logo=checkmarx&logoColor=58A6FF" alt="Invoice Reconciliation">
+<img src="https://img.shields.io/badge/GeM-111827?style=for-the-badge&logo=googlecloud&logoColor=58A6FF" alt="Government e Marketplace">
 
-### Analytics & operations
+### Data · Analytics · Reporting
 
-<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+<img src="https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx">
+<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Advanced Excel">
+<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="VBA">
 <img src="https://img.shields.io/badge/Data%20Reconciliation-111827?style=for-the-badge&logo=databricks&logoColor=58A6FF" alt="Data Reconciliation">
-<img src="https://img.shields.io/badge/Process%20Improvement-111827?style=for-the-badge&logo=progress&logoColor=58A6FF" alt="Process Improvement">
 
-### AI & LLM toolkit
+### AI · LLM · Prompt Engineering
 
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="Large Language Models">
 <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering">
-<img src="https://img.shields.io/badge/LLM%20Workflows-111827?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="LLM Workflows">
-<img src="https://img.shields.io/badge/RAG%20Fundamentals-111827?style=for-the-badge&logo=semanticweb&logoColor=58A6FF" alt="RAG">
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=semanticweb&logoColor=58A6FF" alt="RAG">
 <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=probot&logoColor=58A6FF" alt="AI Agents">
 <img src="https://img.shields.io/badge/Structured%20Outputs-111827?style=for-the-badge&logo=json&logoColor=58A6FF" alt="Structured Outputs">
 <img src="https://img.shields.io/badge/LLM%20Evaluation-111827?style=for-the-badge&logo=testinglibrary&logoColor=58A6FF" alt="LLM Evaluation">
 
-### Tools
+### Development & productivity
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,react,nextjs,html,css&perline=7" alt="Developer tools">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,python&perline=8" alt="Git GitHub VS Code Python">
+<img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="ChatGPT">
+<img src="https://img.shields.io/badge/Microsoft%20Copilot-111827?style=for-the-badge&logo=microsoft&logoColor=58A6FF" alt="Microsoft Copilot">
 
 </div>
 
 ---
 
-## Featured work
+## 🚀 Featured projects
 
-### SAP Ariba Contract Compliance & P2P Controls
+### 1) SAP Ariba Contract Compliance & P2P Controls
 
-[![Project](https://img.shields.io/badge/View%20Project-SAP%20Ariba%20Contract%20Compliance-0FAAFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshwarreddy24/SAP-Ariba-Contract-Compliance-P2P-Project)
+[![SAP Ariba Project](https://img.shields.io/badge/View%20Repository-SAP%20Ariba%20P2P-0FAAFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshwarreddy24/SAP-Ariba-Contract-Compliance-P2P-Project)
 
-A hands-on SAP Ariba case study covering contract architecture, pricing controls, requisition/PO validation, Auto-Catalog behavior, service receiving, milestones and contract lifecycle management.
+Hands-on SAP Ariba implementation covering **supplier, commodity, item and standalone service contracts**, contract pricing, requisition/PO validation, Auto-Catalog, receiving, milestone verification and lifecycle management.
 
-**Measured outcomes**
-
-| Area | Result |
+| Project metric | Result |
 |---|---:|
 | Contract models configured | **4** |
-| Supplier flat discount | **2%** |
-| Commodity discount tiers | **3% / 4% / 5%** |
+| Supplier discount | **2%** |
+| Commodity tiers | **3% / 4% / 5%** |
 | Contract requisition | **USD 6,750** |
-| Service contract ceiling | **USD 500,000** |
+| Service-contract ceiling | **USD 500,000** |
 | Consultant rate | **USD 250/hour** |
-| Service received | **60 hours / USD 15,000 at contract rate** |
+| Service receipt | **60 hours / USD 15,000 at contract rate** |
 | Milestone | **USD 10,000** |
 | Amendment | **USD 10,000 minimum commitment** |
 | Auto-Catalog validation | **USD 15.00 → USD 14.70** |
 
-### Portfolio
+### 2) Analyzing Electric Vehicle Charging Habits
+**SQL · Data Analytics**
 
-[![Portfolio](https://img.shields.io/badge/Open%20Portfolio-eshwarreddy24.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=58A6FF)](https://eshwarreddy24.github.io)
+Analyzed EV charging-station data using SQL to identify tenant usage patterns and support apartment charging-infrastructure planning.
 
-A place for my procurement, SAP, analytics and technology work.
+### 3) AI-Powered Parisian Travel Guide
+**OpenAI API · LLMs · Prompt Engineering**
+
+Built an AI travel guide that processes natural-language queries through the OpenAI API and generates personalized Paris travel recommendations.
 
 ---
 
-## AI + procurement: what I'm building toward
+## 🧠 AI + procurement direction
 
-My next layer is **AI-assisted procurement operations**: using LLMs to reduce low-value manual work while keeping approvals, audit trails and business controls explicit.
+I'm developing practical AI capabilities around enterprise operations rather than treating AI as a replacement for process ownership.
 
 ```text
-Procurement data / policy / contracts
-              ↓
-      retrieval + context
-              ↓
-      LLM / prompt workflow
-              ↓
- structured recommendation / summary
-              ↓
- human validation + ERP / P2P action
+contracts / invoices / procurement data / policy
+                    ↓
+             retrieval + context
+                    ↓
+             prompts / LLM logic
+                    ↓
+       structured analysis / exception view
+                    ↓
+        human validation + ERP / P2P action
 ```
 
-Areas I'm developing:
+Current learning areas include **RAG, structured outputs, AI agents, LLM evaluation, procurement knowledge assistants, contract summarization, exception analysis and workflow automation**.
 
-- Procurement knowledge assistants using **RAG**
-- Contract and policy summarization with **structured outputs**
-- Prompt templates for requisition, invoice and compliance workflows
-- AI-assisted reporting and exception analysis
-- Agent-style workflows with explicit approval checkpoints
-- Evaluation methods for accuracy, grounding and business-rule compliance
+---
+
+## 🎓 Education
+
+**Srinivasa Ramanujan Institute of Technology** — Anantapur, Andhra Pradesh  
+**B.Tech, Civil Engineering** · CGPA **7.59/10** · Jan 2021 – Apr 2024
+
+---
+
+## 🏅 Certifications & learning
+
+- **SAP Certified Implementation Consultant – SAP Service Cloud Version 2**
+- **DataCamp Associate Data Analyst Certification**
+- **Alteryx Essentials Certification – Alteryx**
+- **GitHub Foundations Certification**
+- **SAP Ariba Learning:** 17 course-completion badges across Contract Compliance, Buying & Invoicing, Receiving, Invoice Reconciliation, Reporting, Guided Buying, Approval Rules and Integration. [View SAP Ariba learning credentials](https://github.com/eshwarreddy24/SAP-Ariba-Contract-Compliance-P2P-Project/blob/main/SAP_LEARNING_CREDENTIALS.md)
+
+---
+
+## 🌱 Leadership & additional experience
+
+- **Student Club Executive:** led a **20+ member team** for digital media production and event documentation.
+- **NSS Representative:** completed National Service Scheme certification after leading a community-development program.
+- **AIC SKU IGNITE 3.0:** selected for entrepreneurship, business-strategy and startup-pitching training; led a team under a Chief Innovation Coach.
+- Exposure to technical and office environments including **DGPS surveying, hydrant refueling systems, Bangalore International Airport operations and executive-office management**.
 
 ---
 
 <div align="center">
 
-## GitHub signals
+## 📈 GitHub signals
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshwarreddy24&theme=github_dark" width="92%" alt="GitHub profile details">
 
@@ -144,24 +189,10 @@ Areas I'm developing:
 <img src="https://streak-stats.demolab.com?user=eshwarreddy24&theme=github-dark-blue&hide_border=true" width="49%" alt="GitHub streak">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eshwarreddy24&theme=github_dark" width="49%" alt="Languages by repository">
 
-</div>
+<br><br>
 
----
+**Procurement discipline · SAP controls · Data-driven decisions · Practical AI**
 
-## Learning & credentials
-
-- **SAP Ariba Learning:** 17 course-completion badges across Contract Compliance, Buying & Invoicing, Receiving, Invoice Reconciliation, Reporting, Guided Buying, Approval Rules and Integration.
-- **SAP Certified - Implementation Consultant - SAP Service Cloud Version 2**
-- Continuing development in **AI, prompt engineering and LLM workflow design**.
-
-> I treat AI as a force multiplier for research, drafting and repetitive analysis, not as a substitute for process ownership or validation.
-
----
-
-<div align="center">
-
-**Procurement discipline. SAP controls. AI-assisted execution.**
-
-<sub>Built around measurable work, continuous learning and responsible automation.</sub>
+<sub>Build. Learn. Improve. Repeat.</sub>
 
 </div>
